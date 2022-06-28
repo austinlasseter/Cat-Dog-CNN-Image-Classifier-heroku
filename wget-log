@@ -1,0 +1,11 @@
+--2022-06-28 11:47:04--  https://images.immediate.co.uk/production/volatile/sites/30/2017/01/Bananas-218094b-scaled.jpg?quality=90
+Resolving images.immediate.co.uk (images.immediate.co.uk)... 146.75.34.137
+Connecting to images.immediate.co.uk (images.immediate.co.uk)|146.75.34.137|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 536610 (524K) [image/jpeg]
+Saving to: 'Bananas-218094b-scaled.jpg?quality=90'
+
+           Bananas-21   0%[                          ]       0  --.-KB/s               Bananas-218094b-scale 100%[=========================>] 524.03K  --.-KB/s    in 0.04s   
+
+2022-06-28 11:47:04 (13.0 MB/s) - 'Bananas-218094b-scaled.jpg?quality=90' saved [536610/536610]
+
